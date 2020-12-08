@@ -13,6 +13,7 @@ Não é necessario instalar, apenas abrir o arquivo flappy.html no navegador
 
 ## Exemplo de uso
 
-aperte f5 para recarregar e iniciar e segure qualquer tecla para o passarinho subir e solte para ele cair. 
+aperte f5 para recarregar e iniciar.
+Segure qualquer tecla para o passarinho subir e solte para ele cair. 
 
 ```
