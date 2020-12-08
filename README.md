@@ -4,7 +4,7 @@
 
 Um pedaço de jogo desenvolvido em html e JavaScript, apenas para trabalhar conceitos frontend. 
 
-![](../imagemjogo1.png)
+![](imagemjogo1.png)
 
 ## Instalação
 
